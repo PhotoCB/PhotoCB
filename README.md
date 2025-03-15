@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  I’m currently working on reverse engineering CDP1802-based BT payphone microcontrollers from the mid-1980s.
+
+-  This will hopefully include ROM dumps, disassemblies, and, hopefully, EMMA 02 emulator configurations of BT payphone 500 & 600, aka CT25 and CT24, and the associated Tester 297.
